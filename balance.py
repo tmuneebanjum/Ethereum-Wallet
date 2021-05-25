@@ -15,7 +15,7 @@ Web3.isChecksumAddress(address)
 # print(Web3.toWei(0xe08e5bb6a766c7649bb88f321a0a1cdaad40892c, 'ether'))
 
 # print(web3.fromWei(balance, 'ether'))
-# print(balance)
+# print(balance) sfsd
 
 # Currency eth to usd
 while True:
